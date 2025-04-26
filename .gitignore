@@ -8,6 +8,6 @@ env/
 venv/
 
 .vscode/
-.idea/
+**.idea/
 
 db.sqlite3
