@@ -8,6 +8,13 @@ env/
 venv/
 
 .vscode/
-**.idea/
 
 db.sqlite3
+
+
+#idea
+.idea/
+/idea/
+
+# system ignore
+.DS_Store
